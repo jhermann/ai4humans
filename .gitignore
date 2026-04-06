@@ -208,3 +208,5 @@ __marimo__/
 
 # Custom
 wiki/
+assets/images/*.[pj][np]g*
+!assets/images/*_*x*.png
