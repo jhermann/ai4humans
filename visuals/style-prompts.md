@@ -3,7 +3,7 @@
 Add these to an image generation request or similar,
 to influence the visual appearance.
 
-> ℹ️ **Example Creation** <br /> The examples are created using `show-case the style and its unqiue traits`, plus the style prompt.
+> ℹ️ **Example Creation** <br /> The examples are created using `show-case the style and its unique traits`, plus the style prompt.
 
 **Index**
 - [Sketch Note Style (Hand-drawn)](#sketch-note-style-hand-drawn)
@@ -33,7 +33,7 @@ Flat 2D vector, Notion style line art, hand-drawn ink strokes, minimalistic styl
 Roblox-style low-poly 3D world, blocky cartoon avatars mid-action, vibrant high-contrast palette (bright blues, greens, yellows, reds). Chunky bold gaming typography, pixelated UI elements, neon-lit in-game environments (cityscapes, floating platforms, lobbies). Characters with floating name tags and speech bubbles; expressive poses — pointing, gesturing, holding signs. Take extra care that the floating name tags always match the character and are used consistently.
 
 > ![style example](../assets/images/roblox-style_720x393.png)<br />
-> *Gemini 3 Flash (Nano Banana 2) with "Technicolor."*
+> *Gemini 3 Flash (Nano Banana 2) with "Technicolor." The "Cyborg" visual style also pairs very well.*
 
 ## Lego Brick Style
 Iconic plastic, modular 3D look:
