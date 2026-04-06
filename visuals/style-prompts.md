@@ -30,7 +30,7 @@ Flat 2D vector, Notion style line art, hand-drawn ink strokes, minimalistic styl
 > *Gemini 3 Flash (Nano Banana 2) with "Enamel pin."*
 
 ## "Roblox-style" (Low-poly 3D Game World)
-Roblox-style low-poly 3D world, blocky cartoon avatars mid-action, vibrant high-contrast palette (bright blues, greens, yellows, reds). Chunky bold gaming typography, pixelated UI elements, neon-lit in-game environments (cityscapes, floating platforms, lobbies). Characters with floating name tags and speech bubbles; expressive poses — pointing, gesturing, holding signs.
+Roblox-style low-poly 3D world, blocky cartoon avatars mid-action, vibrant high-contrast palette (bright blues, greens, yellows, reds). Chunky bold gaming typography, pixelated UI elements, neon-lit in-game environments (cityscapes, floating platforms, lobbies). Characters with floating name tags and speech bubbles; expressive poses — pointing, gesturing, holding signs. Take extra care that the floating name tags always match the character and are used consistently.
 
 > ![style example](../assets/images/roblox-style_720x393.png)<br />
 > *Gemini 3 Flash (Nano Banana 2) with "Technicolor."*

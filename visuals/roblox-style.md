@@ -15,6 +15,7 @@ The presentation should be themed around a **Roblox / Roadblocks cartoon-style 3
 - Use bold, chunky typography that fits the gaming aesthetic.
 - Colour palette should be vibrant and high-contrast — bright blues, greens, yellows, and reds reminiscent of the Roblox UI.
 - Each slide should have a **character "role"** — a guide character, a data character, a challenge character, a question character, and so on — each with a distinct avatar skin to visually differentiate them.
+- Take extra care that the floating name tags always match the character and are used consistently.
 
 ## Slide Structure
 Build the deck with the following slide types, in this order:
