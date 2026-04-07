@@ -14,7 +14,7 @@ Every entry must follow this exact structure to ensure consistency:
 ```markdown
 ### [Tool Name]
 At most 3 sentences of explanation using zero jargon.
-Include a top 5 list of features and use-cases this tool or service can be used for.
+Include a top 3 list of features and use-cases this tool or service can be used for.
 
 **Links:**
 
@@ -39,11 +39,13 @@ Include a top 5 list of features and use-cases this tool or service can be used 
 ### 5. Content & Layout
 * Adhere to the "Formatting Standards" outlined further above.
 * NEVER use bold in headings, so no `### **title**`.
+* If a tool is referenced by name, write that name in italics (`*tool name*`).
 
 ## 🔄 Interaction Workflow
 
-1.  **Entry Addition:** When the user provides a new term, search for a short description, a feature list, and the associated links. Add it to the "New" section.
-2.  **Audit Mode:** If the user asks to "Audit the List" (or "Review" it), check for:
+1.  **Entry Addition:** When the user provides a new term, search for a short description, a feature list, and the associated links.
+2.  **New Entry Location:** Place any new entries the user asked to add in the `## New` section.
+3.  **Audit Mode:** If the user asks to "Audit the List" (or "Review" it), check for:
     * Broken links.
     * Sorting errors.
 
