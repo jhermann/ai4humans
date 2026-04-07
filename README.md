@@ -9,5 +9,5 @@
 ----
 **Quick Links**
 
-- [Glossary](./glossary.md)
-- [Style Prompts](./visuals/README.md)
+- [AI Glossary](./glossary.md)
+- [Visual Style Prompts](./visuals/README.md)
