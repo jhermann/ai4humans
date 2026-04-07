@@ -11,12 +11,14 @@
   - [GitHub Copilot](#github-copilot)
   - [Google Gemini](#google-gemini)
   - [Google NotebookLM](#google-notebooklm)
+  - [Perplexity](#perplexity)
 - [Reviewed](#reviewed)
 - [New](#new)
   - [Amazon Q Developer](#amazon-q-developer)
   - [Ben's Bites](#bens-bites)
   - [Blender MCP](#blender-mcp)
   - [Botpress](#botpress)
+  - [Canva AI](#canva-ai)
   - [Claude Code](#claude-code)
   - [Cognigy AI](#cognigy-ai)
   - [Cursor](#cursor)
@@ -40,6 +42,7 @@
 | [Ben's Bites](#bens-bites) | Daily AI newsletter curating notable tools, startups, and ecosystem updates in a short, scannable format. |
 | [Blender MCP](#blender-mcp) | Connects Blender to MCP-compatible assistants for natural-language control of scene setup and modeling. |
 | [Botpress](#botpress) | Visual platform for building and deploying conversational agents with integrations and developer tooling. |
+| [Canva AI](#canva-ai) | AI-enhanced design suite for generating visuals, presentations, and marketing assets from prompts. |
 | [Claude Code](#claude-code) | Anthropic's terminal-first coding assistant for repository-aware edits and multi-step software tasks. |
 | [Cognigy AI](#cognigy-ai) | Enterprise conversational AI platform for multilingual customer service across chat and voice channels. |
 | [Cursor](#cursor) | AI-native code editor for repository-aware coding, refactoring, and agent-assisted development workflows. |
@@ -50,6 +53,7 @@
 | [Hyper 3D](#hyper-3d) | Generates 3D assets from text prompts for rapid character, prop, and object creation. |
 | [Intercom](#intercom) | Customer service platform with AI-powered support automation for help centers and live chat. |
 | [n8n](#n8n) | Workflow automation platform connecting apps, APIs, and AI services with low-code orchestration. |
+| [Perplexity](#perplexity) | AI answer engine combining web search, synthesis, and cited responses for research workflows. |
 | [Polyhaven](#polyhaven) | Public library of royalty-free 3D assets, textures, and HDRIs for rendering and scene design. |
 | [Remotion](#remotion) | Framework for creating videos with React-based code for dynamic, programmatic video generation. |
 | [Sketchfab](#sketchfab) | Online marketplace for discovering, previewing, and integrating 3D models into creative workflows. |
@@ -102,6 +106,21 @@
 
 - *Homepage:* [NotebookLM](https://notebooklm.google/)
 - *Overview:* [Google NotebookLM Help](https://support.google.com/notebooklm)
+
+### Perplexity
+*Perplexity* is an AI answer engine that combines web search and language-model synthesis to deliver concise, cited responses for research and discovery.
+
+**Core features:**
+
+- Real-time web-grounded answers with source citations.
+- Follow-up questioning flow for iterative research.
+- Focus modes for academic, technical, and broad web exploration.
+
+**Links:**
+
+- *Homepage:* [Perplexity](https://www.perplexity.ai)
+- *Documentation:* [Perplexity Support](https://www.perplexity.ai/hub)
+- *Community Reaction:* [Perplexity AI Reviews and Demos](https://www.youtube.com/results?search_query=perplexity+ai+review)
 
 ## Reviewed
 
@@ -168,6 +187,21 @@
 - *Homepage:* [Botpress: Open Source Conversational AI](https://botpress.com)
 - *Documentation:* [Botpress Docs](https://botpress.com/docs)
 - *Community Reaction:* [Botpress: Leading Open Source Platform](https://botpress.com)
+
+### Canva AI
+*Canva AI* is an AI-enhanced design suite for creating presentations, social graphics, documents, and marketing assets from prompts and templates.
+
+**Core features:**
+
+- Prompt-based generation for visuals, layouts, and creative drafts.
+- Integrated editing tools for brand kits, templates, and collaboration.
+- Fast content production for social posts, decks, videos, and print assets.
+
+**Links:**
+
+- *Homepage:* [Canva AI](https://www.canva.com/ai-image-generator/)
+- *Documentation:* [Canva Help Center - AI Features](https://www.canva.com/help/)
+- *Community Reaction:* [Canva Create Updates and AI Tools](https://www.youtube.com/results?search_query=canva+ai+review)
 
 ### Claude Code
 *Claude Code* is Anthropic's terminal-first coding assistant for repository-aware edits, command execution, and multi-step software tasks.
