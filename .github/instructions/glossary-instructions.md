@@ -47,8 +47,9 @@ A 1-2 sentence explanation using zero jargon. If a term requires another technic
 * Do not use bold in headings.
 
 ### 6. Reference Links
-* When one term mentions another that is part of the glossary, link it locally using an anchor link.
+* When one term mentions another term that is part of the glossary, in its definition text, link to it locally using an anchor link.
 * Add any missing reference links on review.
+* Also consider the plurar form of terms and cross-link those.
 
 ## 🔄 Interaction Workflow
 
