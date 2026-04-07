@@ -3,6 +3,7 @@
 > Maintaining this document is assisted by [Copilot instructions](.github/instructions/tools-instructions.md).
 
 **Contents**
+- [Overview](#overview)
 - [Favorites](#favorites)
   - [GitHub Copilot](#github-copilot)
   - [Google Gemini](#google-gemini)
@@ -27,6 +28,32 @@
   - [Tabnine](#tabnine)
   - [The Rundown AI](#the-rundown-ai)
   - [Windsurf](#windsurf)
+
+## Overview
+
+| Tool | Summary |
+|------|---------|
+| [Amazon Q Developer](#amazon-q-developer) | AWS's AI coding assistant for cloud-native development, security-aware workflows, and legacy code modernization. |
+| [Ben's Bites](#bens-bites) | Daily AI newsletter curating notable tools, startups, and ecosystem updates in a short, scannable format. |
+| [Blender MCP](#blender-mcp) | Connects Blender to MCP-compatible assistants for natural-language control of scene setup and modeling. |
+| [Botpress](#botpress) | Visual platform for building and deploying conversational agents with integrations and developer tooling. |
+| [Claude Code](#claude-code) | Anthropic's terminal-first coding assistant for repository-aware edits and multi-step software tasks. |
+| [Cognigy AI](#cognigy-ai) | Enterprise conversational AI platform for multilingual customer service across chat and voice channels. |
+| [Cursor](#cursor) | AI-native code editor for repository-aware coding, refactoring, and agent-assisted development workflows. |
+| [DeepLearning.AI Newsletter](#deeplearningai-newsletter) | Weekly AI news and research highlights with educational context for practitioners and students. |
+| [GitHub Copilot](#github-copilot) | AI coding assistant for writing, understanding, testing, and reviewing code across IDEs and GitHub. |
+| [Google Gemini](#google-gemini) | Google's multimodal AI assistant for chat, reasoning, coding, and Google Workspace integration. |
+| [Google NotebookLM](#google-notebooklm) | AI research workspace that grounds answers in user-provided sources for synthesis and study. |
+| [Hyper 3D](#hyper-3d) | Generates 3D assets from text prompts for rapid character, prop, and object creation. |
+| [Intercom](#intercom) | Customer service platform with AI-powered support automation for help centers and live chat. |
+| [n8n](#n8n) | Workflow automation platform connecting apps, APIs, and AI services with low-code orchestration. |
+| [Polyhaven](#polyhaven) | Public library of royalty-free 3D assets, textures, and HDRIs for rendering and scene design. |
+| [Remotion](#remotion) | Framework for creating videos with React-based code for dynamic, programmatic video generation. |
+| [Sketchfab](#sketchfab) | Online marketplace for discovering, previewing, and integrating 3D models into creative workflows. |
+| [Stitch](#stitch) | Google Labs tool that turns product ideas into UI concepts and screen layouts. |
+| [Tabnine](#tabnine) | Privacy-focused AI coding assistant with enterprise controls and on-prem deployment options. |
+| [The Rundown AI](#the-rundown-ai) | Daily newsletter covering major AI news, product launches, and practical insights for professionals. |
+| [Windsurf](#windsurf) | Codeium's AI coding environment with deep project context and agentic development support. |
 
 ## Favorites
 
