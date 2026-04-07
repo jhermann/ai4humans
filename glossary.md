@@ -6,9 +6,11 @@
 
 **Index**
 - [A](#a)
+  - [AI Washing](#ai-washing)
   - [Agent Loop](#agent-loop)
   - [Agentic AI](#agentic-ai)
   - [Alignment](#alignment)
+  - [Attention Mechanism](#attention-mechanism)
   - [Artificial General Intelligence (AGI)](#artificial-general-intelligence-agi)
   - [Artificial Superintelligence (ASI)](#artificial-superintelligence-asi)
   - [Autonomous Agent](#autonomous-agent)
@@ -16,13 +18,16 @@
   - [Bias](#bias)
 - [C](#c)
   - [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting)
+  - [Constitutional AI](#constitutional-ai)
   - [Context Window](#context-window)
 - [D](#d)
   - [Deep Learning](#deep-learning)
+  - [Diffusion Model](#diffusion-model)
 - [E](#e)
   - [Embeddings](#embeddings)
   - [Explainable AI (XAI)](#explainable-ai-xai)
 - [F](#f)
+  - [Few-shot Learning](#few-shot-learning)
   - [Fine-tuning](#fine-tuning)
   - [Foundation Models](#foundation-models)
 - [G](#g)
@@ -31,32 +36,57 @@
   - [Grounding](#grounding)
 - [H](#h)
   - [Hallucination](#hallucination)
+- [J](#j)
+  - [Jailbreaking](#jailbreaking)
 - [L](#l)
   - [Large Language Model (LLM)](#large-language-model-llm)
   - [Large Reasoning Models](#large-reasoning-models)
+  - [Latent Space](#latent-space)
+  - [Low-Rank Adaptation (LoRA)](#low-rank-adaptation-lora)
 - [M](#m)
   - [Machine Learning (ML)](#machine-learning-ml)
   - [Mixture of Experts (MoE)](#mixture-of-experts-moe)
   - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+  - [Multimodality](#multimodality)
 - [N](#n)
   - [Neural Network](#neural-network)
 - [P](#p)
+  - [Parameters](#parameters)
+  - [Pre-training](#pre-training)
+  - [Prompt Chaining](#prompt-chaining)
   - [Prompt Engineering](#prompt-engineering)
   - [Prompt Injection](#prompt-injection)
+- [Q](#q)
+  - [Quantization](#quantization)
 - [R](#r)
+  - [Red Teaming](#red-teaming)
   - [Reinforcement Learning (RL)](#reinforcement-learning-rl)
   - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
 - [S](#s)
+  - [Small Language Model (SLM)](#small-language-model-slm)
   - [Source Citations](#source-citations)
+  - [Stochastic Parrot](#stochastic-parrot)
+  - [Synthetic Data](#synthetic-data)
 - [T](#t)
   - [Tokens](#tokens)
   - [Tool Use](#tool-use)
+  - [Transformer](#transformer)
 - [V](#v)
   - [Vector Database](#vector-database)
   - [Vector Embedding](#vector-embedding)
+- [W](#w)
+  - [Weights](#weights)
+  - [World Model](#world-model)
+- [Z](#z)
+  - [Zero-shot Learning](#zero-shot-learning)
 
 
 ## A
+
+### AI Washing
+*AI Washing* is when a company markets a product as "AI" even though AI is not a meaningful part of it.
+
+> *See also:* [AI washing (Wikipedia)](https://en.wikipedia.org/wiki/AI_washing)
 
 ### Agent Loop
 *Agent Loop* is the repeating cycle an [*Autonomous Agent*](#autonomous-agent) uses to finish a task: notice what is happening, decide what to do, act, and check the result.
@@ -72,6 +102,11 @@
 *Alignment* is the scientific work of making sure an AI system's goals and behavior match what humans actually want.
 
 > *See also:* [AI alignment (Wikipedia)](https://en.wikipedia.org/wiki/AI_alignment)
+
+### Attention Mechanism
+*Attention Mechanism* is a method that helps a model focus on the most important parts of the input.
+
+> *See also:* [Attention (machine learning) (Wikipedia)](https://en.wikipedia.org/wiki/Attention_(machine_learning))
 
 ### Artificial General Intelligence (AGI)
 *Artificial General Intelligence (AGI)* is a theoretical type of AI that could handle most thinking tasks at about human level across many fields.
@@ -102,6 +137,11 @@
 
 > *See also:* [Prompt engineering (Wikipedia)](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought)
 
+### Constitutional AI
+*Constitutional AI* trains a model to follow a written set of rules meant to keep behavior safer and more helpful.
+
+> *See also:* [Constitutional AI (Anthropic)](https://www.anthropic.com/news/constitutional-ai-harmlessness-from-ai-feedback)
+
 ### Context Window
 *Context Window* is the amount of information a model can consider at one time while producing a response.
 
@@ -113,6 +153,11 @@
 *Deep Learning* is a way to train AI with many layers of neural networks so it can learn hard patterns from data.
 
 > *See also:* [Deep learning (Wikipedia)](https://en.wikipedia.org/wiki/Deep_learning)
+
+### Diffusion Model
+*Diffusion Model* is a model that learns to create images or other data by removing noise step by step.
+
+> *See also:* [Diffusion model (Wikipedia)](https://en.wikipedia.org/wiki/Diffusion_model)
 
 ## E
 
@@ -127,6 +172,11 @@
 > *See also:* [Explainable artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 
 ## F
+
+### Few-shot Learning
+*Few-shot Learning* is when a model learns a task from only a few examples.
+
+> *See also:* [Few-shot learning (Wikipedia)](https://en.wikipedia.org/wiki/Few-shot_learning)
 
 ### Fine-tuning
 *Fine-tuning* is extra training on an already trained model so it performs better for one specific task or topic.
@@ -162,6 +212,13 @@
 
 > *See also:* [Hallucination (artificial intelligence) (Wikipedia)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
 
+## J
+
+### Jailbreaking
+*Jailbreaking* is trying to get an AI system to ignore its safety rules.
+
+> *See also:* [Prompt injection (Wikipedia)](https://en.wikipedia.org/wiki/Prompt_injection)
+
 ## L
 
 ### Large Language Model (LLM)
@@ -173,6 +230,16 @@
 *Large Reasoning Models* are [*Large Language Models (LLMs)*](#large-language-model-llm) tuned to solve harder problems by doing extra thinking before giving a final answer.
 
 > *See also:* [Chain-of-thought prompting (Wikipedia)](https://en.wikipedia.org/wiki/Chain-of-thought_prompting)
+
+### Latent Space
+*Latent Space* is the model's internal math space where similar things are placed closer together.
+
+> *See also:* [Latent space (Wikipedia)](https://en.wikipedia.org/wiki/Latent_space)
+
+### Low-Rank Adaptation (LoRA)
+*Low-Rank Adaptation (LoRA)* is a fine-tuning method that changes a small set of values instead of updating all model [*Weights*](#weights).
+
+> *See also:* [LoRA (arXiv)](https://arxiv.org/abs/2106.09685)
 
 ## M
 
@@ -191,6 +258,11 @@
 
 > *See also:* [Communication protocol (Wikipedia)](https://en.wikipedia.org/wiki/Communication_protocol)
 
+### Multimodality
+*Multimodality* means a model can work with more than one data type, like text, images, video, and audio.
+
+> *See also:* [Multimodal learning (Wikipedia)](https://en.wikipedia.org/wiki/Multimodal_learning)
+
 ## N
 
 ### Neural Network
@@ -199,6 +271,21 @@
 > *See also:* [Neural network (Wikipedia)](https://en.wikipedia.org/wiki/Neural_network)
 
 ## P
+
+### Parameters
+*Parameters* are the learned numbers inside a model that shape how it responds.
+
+> *See also:* [Statistical parameter (Wikipedia)](https://en.wikipedia.org/wiki/Statistical_parameter)
+
+### Pre-training
+*Pre-training* is the first training stage where a model learns general patterns before later steps like [*Fine-tuning*](#fine-tuning).
+
+> *See also:* [Pre-training (machine learning) (Wikipedia)](https://en.wikipedia.org/wiki/Pre-training)
+
+### Prompt Chaining
+*Prompt Chaining* is doing a task in steps, where each prompt uses the previous step's output.
+
+> *See also:* [Prompt engineering (Wikipedia)](https://en.wikipedia.org/wiki/Prompt_engineering)
 
 ### Prompt Engineering
 *Prompt Engineering* is the practice of writing better inputs and instructions so models give better answers.
@@ -210,7 +297,19 @@
 
 > *See also:* [Prompt injection (Wikipedia)](https://en.wikipedia.org/wiki/Prompt_injection)
 
+## Q
+
+### Quantization
+*Quantization* lowers number precision in a model so it uses less memory and can run faster.
+
+> *See also:* [Quantization (signal processing) (Wikipedia)](https://en.wikipedia.org/wiki/Quantization_(signal_processing))
+
 ## R
+
+### Red Teaming
+*Red Teaming* is stress-testing an AI system to find safety, security, or reliability problems.
+
+> *See also:* [Red team (Wikipedia)](https://en.wikipedia.org/wiki/Red_team)
 
 ### Reinforcement Learning (RL)
 *Reinforcement Learning (RL)* trains agents with rewards and penalties so they learn actions that work better over time.
@@ -224,10 +323,25 @@
 
 ## S
 
+### Small Language Model (SLM)
+*Small Language Model (SLM)* is a language model with fewer [*Parameters*](#parameters), often built to be cheaper and faster.
+
+> *See also:* [Language model (Wikipedia)](https://en.wikipedia.org/wiki/Language_model)
+
 ### Source Citations
 *Source Citations* are references that show which source passages an AI answer is based on, so people can check whether a claim is supported.
 
 > *See also:* [Citation (Wikipedia)](https://en.wikipedia.org/wiki/Citation)
+
+### Stochastic Parrot
+*Stochastic Parrot* is a term that says language models mainly predict likely text patterns, not true understanding.
+
+> *See also:* [On the Dangers of Stochastic Parrots (ACM FAccT)](https://dl.acm.org/doi/10.1145/3442188.3445922)
+
+### Synthetic Data
+*Synthetic Data* is data made by software instead of collected from the real world.
+
+> *See also:* [Synthetic data (Wikipedia)](https://en.wikipedia.org/wiki/Synthetic_data)
 
 ## T
 
@@ -241,6 +355,11 @@
 
 > *See also:* [Application programming interface (Wikipedia)](https://en.wikipedia.org/wiki/API)
 
+### Transformer
+*Transformer* is the model design behind most modern language models, built around [*Attention Mechanism*](#attention-mechanism).
+
+> *See also:* [Transformer (deep learning architecture) (Wikipedia)](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
+
 ## V
 
 ### Vector Database
@@ -252,3 +371,22 @@
 *Vector Embedding* is a numeric representation of text, images, or other data where similar meaning is placed near each other in a math space.
 
 > *See also:* [Word embedding (Wikipedia)](https://en.wikipedia.org/wiki/Word_embedding)
+
+## W
+
+### Weights
+*Weights* are the adjustable numbers in a model that store what it learned.
+
+> *See also:* [Artificial neural network (Wikipedia)](https://en.wikipedia.org/wiki/Artificial_neural_network)
+
+### World Model
+*World Model* is an internal map an agent uses to predict what will happen after an action.
+
+> *See also:* [World model (Wikipedia)](https://en.wikipedia.org/wiki/World_model)
+
+## Z
+
+### Zero-shot Learning
+*Zero-shot Learning* is when a model can do a new task without seeing direct examples first.
+
+> *See also:* [Zero-shot learning (Wikipedia)](https://en.wikipedia.org/wiki/Zero-shot_learning)
