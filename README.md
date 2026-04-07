@@ -5,3 +5,9 @@
 <img src="https://github.com/jhermann/ai4humans/blob/main/assets/logo.png?raw=true" width="360" style="display: block; margin: auto;" alt="logo">
 
 # See the [wiki](https://github.com/jhermann/ai4humans/wiki) for know-how about AI and useful prompts for bot chats.
+
+----
+**Quick Links**
+
+- [Glossary](./glossary.md)
+- [Style Prompts](./visuals/README.md)
