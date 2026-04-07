@@ -10,4 +10,5 @@
 **Quick Links**
 
 - [AI Glossary](./glossary.md)
+- [AI Tools & Services Inventory](./tools.md)
 - [Visual Style Prompts](./visuals/README.md)
