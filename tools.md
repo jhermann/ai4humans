@@ -1,8 +1,9 @@
 # AI Tools & Services Inventory<!-- omit from toc -->
 
 > Maintaining this document is assisted by [Copilot instructions](.github/instructions/tools-instructions.md).
-
-> ![Five stylized fantasy warriors clash in a snowy mountain valley, wielding glowing weapons and magical abilities labeled with cloud service logos: CI, G, C, AWS, and Q. The scene radiates energy and determination with bright color bursts and crystalline runes on the ground. The atmosphere conveys competitive intensity and technological power.](assets/images/ai-tool-battle_720x402.png)
+>
+> ![Five stylized fantasy warriors clash in a snowy mountain valley, wielding glowing weapons and magical abilities labeled with cloud service logos: CI, G, C, AWS, and Q. The scene radiates energy and determination with bright color bursts and crystalline runes on the ground. The atmosphere conveys competitive intensity and technological power.](assets/images/ai-tool-battle_720x402.png)<br />
+> *The clash of AI titans is still in full swing.*
 
 **Contents**
 - [Overview](#overview)
