@@ -149,7 +149,7 @@
 
 - *Homepage:* [Blender MCP Repository](https://github.com/pali/blender-mcp)
 - *Documentation:* [Model Context Protocol Introduction](https://modelcontextprotocol.io/introduction)
-- *Community Reaction:* [A Markdown File Just Replaced Your Most Expensive Design Meeting](https://www.youtube.com/watch?v=D-Zp2fI5b7k)
+- *Community Reaction:* [Control Blender with Claude AI via Model Context Protocol](https://www.youtube.com/watch?v=8_zES4u5sz0)
 
 ### Botpress
 *Botpress* is a platform for building and deploying conversational agents with visual flows, integrations, and developer tooling.
@@ -179,7 +179,7 @@
 
 - *Homepage:* [Claude.ai by Anthropic](https://www.anthropic.com/claude)
 - *Documentation:* [Claude Code Guide](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code)
-- *Community Reaction:* [Using Claude Code for Everything](https://www.youtube.com/watch?v=vV2p_Vz8K1Y)
+- *Community Reaction:* [Claude Code Tutorial for Beginners 2026](https://www.youtube.com/watch?v=9TP1EWtedpY)
 
 ### Cognigy AI
 *Cognigy AI* is an enterprise conversational AI platform for multilingual customer service across chat and voice channels.
@@ -284,7 +284,7 @@ The *DeepLearning.AI* newsletter, *The Batch*, provides weekly AI news and resea
 
 - *Homepage:* [Polyhaven: The Public 3D Asset Library](https://polyhaven.com/)
 - *Documentation:* [Polyhaven FAQ](https://polyhaven.com/faq)
-- *Community Reaction:* [Why Polyhaven is the Best for 3D Artists](https://www.youtube.com/watch?v=Nn_E_XlVf-k)
+- *Community Reaction:* [Amazing FREE 3D Assets | Poly Haven](https://www.youtube.com/watch?v=GZc1JKnEStg)
 
 ### Remotion
 *Remotion* is a framework for creating videos with code, enabling dynamic and repeatable video generation using React-based components.
@@ -299,7 +299,7 @@ The *DeepLearning.AI* newsletter, *The Batch*, provides weekly AI news and resea
 
 - *Homepage:* [Remotion: Create Videos in React](https://www.remotion.dev/)
 - *Documentation:* [Remotion Documentation](https://www.remotion.dev/docs)
-- *Community Reaction:* [Video as Code: The Future of Production?](https://www.youtube.com/watch?v=avgZ0U6pGUM)
+- *Community Reaction:* [Claude Code AUTOMATES AI Videos for FREE, here's how! - YouTube](https://www.youtube.com/watch?v=44yrAiRf4r4)
 
 ### Sketchfab
 *Sketchfab* is a large online marketplace and showcase for 3D models, used to discover, preview, and integrate assets into creative workflows.
@@ -314,7 +314,7 @@ The *DeepLearning.AI* newsletter, *The Batch*, provides weekly AI news and resea
 
 - *Homepage:* [Sketchfab: Publish & Find 3D Models](https://sketchfab.com/)
 - *Documentation:* [Sketchfab Help Center](https://help.sketchfab.com/hc/en-us)
-- *Community Reaction:* [Sketchfab vs ArtStation for 3D Artists](https://www.youtube.com/watch?v=N-B5r7H8A_U)
+- *Community Reaction:* [Introducing the Sketchfab Store](https://www.youtube.com/watch?v=8OGYP9IeZNA)
 
 ### Stitch
 *Stitch* is a Google Labs prototyping tool that turns product ideas into UI concepts and screen layouts with AI assistance.
