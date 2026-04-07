@@ -13,7 +13,8 @@ Every entry must follow this exact structure to ensure consistency:
 
 ```markdown
 ### [Term Name]
-A 1-2 sentence explanation using zero jargon. If a term requires another technical term to explain it, define that term too or simplify further.
+A 1-2 sentence explanation using zero jargon. If a term requires another
+technical term to explain it, define that term too or simplify further.
 
 > *See also:* [Wikipedia Link]
 ```
@@ -35,7 +36,7 @@ A 1-2 sentence explanation using zero jargon. If a term requires another technic
 * If a specific Wikipedia page doesn't exist for a niche term, link to the closest parent category, or better a popular web resource for the term, if you find one.
 
 ### 4. Acronyms
-* If there is a common acronym for a term, add it to the term's H3 (example: "## Agentic AI (AGI)").
+* If there is a common acronym for a term, add it to the term's H3 (example: "## Machine Learning (ML)").
 * Add any missing acronym when reviewing the glossary.
 
 ### 5. Content & Layout
