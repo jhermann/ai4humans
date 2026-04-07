@@ -2,6 +2,8 @@
 
 > Maintaining this document is assisted by [Copilot instructions](.github/instructions/tools-instructions.md).
 
+> ![Five stylized fantasy warriors clash in a snowy mountain valley, wielding glowing weapons and magical abilities labeled with cloud service logos: CI, G, C, AWS, and Q. The scene radiates energy and determination with bright color bursts and crystalline runes on the ground. The atmosphere conveys competitive intensity and technological power.](assets/images/ai-tool-battle.png)
+
 **Contents**
 - [Overview](#overview)
 - [Favorites](#favorites)
