@@ -1,7 +1,9 @@
 # AI Glossary of Terms<!-- omit from toc -->
 
 > *Building a glossary for something as fast-moving as AI is a bit like trying to organize a library while the building is still being constructed.*
-> 
+>
+> ![A word cloud centered on the term LLM, featuring AI and machine learning terminology in varying text sizes. Prominent terms include: Large Language Model, Deep Learning, Machine Learning, Generative AI, Transformer, Tokens, Neural Network, Parameters, Fine-tuning, Prompt Engineering, Reinforcement Learning, Retrieval-Augmented Generation, Alignment, Chain-of-Thought, Foundation Models, and Explainable AI. The image is displayed on a crumpled white paper background on a wooden surface, creating an informal, approachable aesthetic that emphasizes the constantly evolving nature of AI concepts.](assets/images/glossary-word-cloud_720x393.png)
+>
 > *It’s easy for things to get messy, so maintaining this glossary is guarded and assisted by [Copilot instructions](.github/instructions/glossary-instructions.md).*
 
 **Index**
