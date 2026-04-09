@@ -27,6 +27,7 @@
   - [Diffusion Model](#diffusion-model)
 - [E](#e)
   - [Embeddings](#embeddings)
+  - [Energy Based Model (EBM)](#energy-based-model-ebm)
   - [Explainable AI (XAI)](#explainable-ai-xai)
 - [F](#f)
   - [Few-shot Learning](#few-shot-learning)
@@ -167,6 +168,13 @@
 *Embeddings* are lists of numbers that represent meaning, so similar ideas end up close together.
 
 > *See also:* [Word embedding (Wikipedia)](https://en.wikipedia.org/wiki/Word_embedding)
+
+### Energy Based Model (EBM)
+An *Energy Based Model (EBM)* is a type of machine learning model that assigns a scalar energy value to each possible configuration of inputs and outputs — low energy means a likely or compatible pairing, high energy means unlikely.
+
+Rather than learning explicit probability distributions, EBMs learn an energy landscape, making them flexible enough to model complex dependencies. They underpin approaches like denoising score matching and have influenced diffusion models and contrastive learning.
+
+> *See also:* [Energy-based model (Wikipedia)](https://en.wikipedia.org/wiki/Energy-based_model)
 
 ### Explainable AI (XAI)
 *Explainable AI (XAI)* means building AI in a way people can review and understand why it made a decision.
