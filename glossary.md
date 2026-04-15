@@ -23,6 +23,7 @@
   - [Constitutional AI](#constitutional-ai)
   - [Context Window](#context-window)
 - [D](#d)
+  - [Dark Factory](#dark-factory)
   - [Deep Learning](#deep-learning)
   - [Diffusion Model](#diffusion-model)
 - [E](#e)
@@ -151,6 +152,11 @@
 > *See also:* [Large language model (Wikipedia)](https://en.wikipedia.org/wiki/Large_language_model#Context_window)
 
 ## D
+
+### Dark Factory
+*Dark Factory* is a fully automated manufacturing facility that operates without human workers on-site. All production processes are handled by machines, robots, and AI systems, often running continuously without lights or climate controls needed for people.
+
+> *See also:* [Lights-out manufacturing (Wikipedia)](https://en.wikipedia.org/wiki/Lights-out_manufacturing)
 
 ### Deep Learning
 *Deep Learning* is a way to train AI with many layers of neural networks so it can learn hard patterns from data.
