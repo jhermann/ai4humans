@@ -10,5 +10,6 @@
 **Quick Links**
 
 - [AI Glossary](./glossary.md)
+- [AI News Feeds](./news-feeds.md)
 - [AI Tools & Services Inventory](./tools.md)
 - [Visual Style Prompts](./visuals/README.md)
