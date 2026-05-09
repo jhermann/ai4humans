@@ -6,6 +6,10 @@
 >
 > *It’s easy for things to get messy, so maintaining this glossary is guarded and assisted by [Copilot instructions](.github/instructions/glossary-instructions.md).*
 
+**External Sources**
+
+- [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding): AI coding jargon, explained in plain English.
+
 **Index**
 - [A](#a)
   - [AI Washing](#ai-washing)
